@@ -39,6 +39,6 @@
 
  
 # :mailbox_with_mail: Contacts
-[![Naver](http://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&link=https://blog.naver.com/easeon11)](https://blog.naver.com/easeon11)
+[![naver](http://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/easeon11)](https://blog.naver.com/easeon11)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:easeon78@gmail.com)](mailto:easeon78@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9E%AC%EC%84%B1-%EC%9D%B4-412743223/)](https://www.linkedin.com/in/%EC%9E%AC%EC%84%B1-%EC%9D%B4-412743223/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9E%AC%EC%84%B1-%EC%9D%B4-412743223/)](https://www.linkedin.com/in/%EC%9E%AC%EC%84%B1-%EC%9D%B4-412743223/)
