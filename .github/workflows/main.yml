@@ -27,10 +27,3 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
           plugin_languages_other: yes
-
-          # Achievements (프로필 감성 ↑)
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-
-          # Lines changed
-          plugin_lines: yes
