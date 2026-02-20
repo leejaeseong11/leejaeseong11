@@ -1,4 +1,17 @@
 # LEE JAE SEONG 😉
+<table>
+  <tbody>
+    <tr>
+    <td align="center">
+      <img src="github-metrics-left.svg" alt="" />
+    </td>
+    <td align="center">
+      <img src="github-metrics-right.svg" alt=""/>
+    </td>
+    </tr>
+  </tbody>
+</table>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=leejaeseong11)]
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=easeon11)](https://solved.ac/easeon11/)
 
