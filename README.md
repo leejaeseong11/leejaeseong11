@@ -12,7 +12,6 @@
   </tbody>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=leejaeseong11)]
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=easeon11)](https://solved.ac/easeon11/)
 
 # 💪Skills
