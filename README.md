@@ -1,5 +1,5 @@
 # LEE JAE SEONG 😉
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_ID)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=easeon78@gmail.com)]
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=easeon11)](https://solved.ac/easeon11/)
 
 # 💪Skills
