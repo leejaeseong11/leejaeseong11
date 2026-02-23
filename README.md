@@ -33,9 +33,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![intelliJ IDEA](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-
- 
-# :mailbox_with_mail: Contacts
-[![naver](http://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/easeon11)](https://blog.naver.com/easeon11)
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:easeon78@gmail.com)](mailto:easeon78@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9E%AC%EC%84%B1-%EC%9D%B4-412743223/)](https://www.linkedin.com/in/%EC%9E%AC%EC%84%B1-%EC%9D%B4-412743223/)
